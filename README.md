@@ -2,7 +2,7 @@
 
 This repository contains the code and accompanying report to build a model to predict where a protein resides in a cell. 
 
-The dataset used to build this model is composed of FASTA files containing the amino acid sequence of a protein. Additionally, the dataset contains the location of each protein. The dataset is composed of: 
+The dataset used to build this model is composed of FASTA files containing the amino acid sequence of a protein. More information on FASTA files can be found here: https://www.ncbi.nlm.nih.gov/genbank/fastaformat/. Additionally, the dataset contains the location of each protein. The dataset is composed of: 
 - 3,004 cytosolic sequences
 - 1,299 mitochondrial sequences
 - 3,314 nucleic sequences
