@@ -8,6 +8,7 @@ The dataset used to build this model is composed of FASTA files containing the a
 - 3,314 nucleic sequences
 - 1,605 secreted or extracellular sequences 
 - 2,002 prokaryotic sequences
+
 The prokaryotic sequences were added as they can contaminate sequencing samples but this model focused on predicting the cytosolic, mitochondrial, nucleic and secreted or extracellular sequences with a high accuracy. 
 
 The dataset used has not been included in this repository, therefore if you would like to run this code please reach out. 
