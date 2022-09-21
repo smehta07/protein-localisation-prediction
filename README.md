@@ -1,4 +1,4 @@
-# Protein Localisation Prediction
+# Protein Localisation Prediction (2022)
 
 This repository contains the code and accompanying report to build a model to predict where a protein resides in a cell. 
 
